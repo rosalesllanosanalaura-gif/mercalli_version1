@@ -7,7 +7,7 @@ plugins {
 android {
     namespace = "com.example.mercalli_version1"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "25.1.8937393"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
